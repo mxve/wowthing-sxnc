@@ -3,3 +3,4 @@ watch_folder = "/path/to/wow"
 upload_host = "https://wowthing.org/" 
 upload_on_startup = true 
 watch_interval = 60
+once = false
